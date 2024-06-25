@@ -1,0 +1,324 @@
+[
+    {
+        "name": "Abigail",
+        "data": {
+            "loves": ["Amethyst", "Pumpkin", "Chocolate Cake"],
+            "likes": ["Quartz", "Maple Syrup", "Cranberries"],
+            "dislikes": ["Holly", "Clay", "Quartz"],
+            "hates": ["Geode", "Salmonberry", "Holly"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Abigail Image.png"]
+        }
+    },
+    {
+        "name": "Alex",
+        "data": {
+            "loves": ["Complete Breakfast", "Salmon Dinner", "Gold Bar"],
+            "likes": ["Eggs", "Milk", "Daffodil"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\alex web page file.png"]
+        }
+    },
+    
+    {
+        "name": "Caroline",
+        "data": {
+            "loves": ["Fish Taco", "Green Tea", "Summer Spangle", "Tropical Curry"],
+            "likes": ["Daffodil", "Tea leaves"],
+            "dislikes": ["Amaranth", "Chanterelle", "Dandelion", "Duck Mayonaise"],
+            "hates": ["Quartz", "Strawberry"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Caroline_sad.png"]
+        }
+    },
+    
+    {
+        "name": "Clint",
+        "data": {
+            "loves": ["Amethyst", "Aquamarine", "Emerald", "Jade"],
+            "likes": ["Copper Bar", "Iron Bar", "Mining Monthly"],
+            "dislikes": ["Clam", "Quartz", "Salmonberry", "Wild Horseradish"],
+            "hates": ["Holly"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Clint stardew valley image.png"]
+        }
+    },
+    
+    {
+        "name": "Demetrius",
+        "data": {
+            "loves": ["Bean Hotpot", "Ice Cream", "Rice Pudding", "Strawberry"],
+            "likes": ["Dinosaur Egg", "Purple Mushroom"],
+            "dislikes": ["Quartz"],
+            "hates": ["Holly"],
+            "image": ["C:\\Users\\jeann\\Downloads\\demtrius stardew.png"]
+        }
+    },
+    
+     {
+        "name": "Dwarf",
+        "data": {
+            "loves": ["Amethyst", "Aquamarine", "Emerald", "Jade", "Lava Eel", "Lemon Stone"],
+            "likes": ["Cave carrot", "Quartz"],
+            "dislikes": ["Common Mushroom", "Leek", "Magma Cup", "Snow Yam"],
+            "hates": ["Fairy Dust", "Iron Ore", "Poppy"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-05-02 151449.png"]
+        }
+    },
+    
+    {
+        "name": "Elliot",
+        "data": {
+            "loves": ["Crab Cakes", "Lobster", "Pomegranate"],
+            "likes": ["Tom Kha Soup", "Duck Feather", "Squid Ink"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\elliot-web.png"]
+        }
+    },
+    
+    {
+        "name": "Evelyn",
+        "data": {
+            "loves": ["Beet", "Chocolate Cake", "Diamond", "Fairy Rose", "Stuffing", "Tulip", "Raisins"],
+            "likes": ["Broken glasses", "Daffodil"],
+            "dislikes": ["Quartz", "Wild horseradish"],
+            "hates": ["Clam", "Clay", "Coral", "Fried Eel", "Garlic"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-05-02 152003.png"]
+        }
+    },
+    
+    {
+        "name": "Emily",
+        "data": {
+            "loves": ["Fried mushroom", "Leek"],
+            "likes": ["Daffodil"],
+            "dislikes": ["Salmonberry", "Wild horseradish"],
+            "hates": ["Clay", "Dandelion", "Holly", "Quartz"],
+            "image": ["C:\\Users\\jeann\\Downloads\\emily-web.png"]
+        }
+    },
+    
+    {
+        "name": "George",
+        "data": {
+            "loves": ["Wool", "Aquamarine", "Emerald"],
+            "likes": ["Amethyst", "Cloth", "Daffodil"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-05-02 152301.png"]
+        }
+    },
+    
+    {
+        "name": "Gus",
+        "data": {
+            "loves": ["Diamond", "Escargot", "Fish taco", "Orange", "Orange", "Tropical curry"],
+            "likes": ["Daffodil"],
+            "dislikes": ["Clam", "Salmonberry", "Wild Horseradish"],
+            "hates": ["Coleslaw", "Holly", "Quartz"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Gus_1.png"]
+        }
+    },
+    
+    
+    
+    {
+        "name": "Harvey",
+        "data": {
+            "loves": ["Coffee", "Pickles", "Wine"],
+            "likes": ["Apple", "Cheese", "Goat Cheese"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\harvey.png"]
+        }
+    },
+    {
+        "name": "Haley",
+        "data": {
+            "loves": ["Coconut", "Fruit Salad", "Pink Cake"],
+            "likes": ["Daffodil", "Sunflower", "Pineapple"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\haley.png"]
+        }
+    },
+    
+    {
+        "name": "Jas",
+        "data": {
+            "loves": ["Fairy Box", "Fairy Rose", "Pink Cake", "Plum Pudding"],
+            "likes": ["Coconut", "Daffodil"],
+            "dislikes": ["Hazelnut", "Ginger", "Common Mushroom", "Chanterelle"],
+            "hates": ["Clay", "Piña Colada", "Triple Shot Espresso", "Wild Horseradish"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\jas.png"]
+        }
+    },
+    
+    {
+        "name": "Jodi",
+        "data": {
+            "loves": ["Chocolate Cake", "Crispy Bass", "Diamond", "Eggplant Parmesan", "Fried Eel", "Pancakes", "Rhubarb Pie", "Vegetable Medley"],
+            "likes": ["Eggs", "Fruit", "Milk"],
+            "dislikes": ["Hazelnut", "Ginger", "Common Mushroom", "Chanterelle"],
+            "hates": ["Daffodil", "Dandelion", "Spice berry"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\jodi.png"]
+        }
+    },
+    
+    {
+        "name": "Leah",
+        "data": {
+            "loves": ["Goat Cheese", "Poppyseed Muffin", "Salad"],
+            "likes": ["Milk", "Truffle", "Wine"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\leah.png"]
+        }
+    },
+    
+    {
+        "name": "Lewis",
+        "data": {
+            "loves": ["Autumn's Bounty", "Glazed Yams", "Green Tea"],
+            "likes": ["Blueberry", "Cactus Fruit", "Coconut"],
+            "dislikes": ["Salmonberry", "Wild horseradish"],
+            "hates": ["Holly","Quartz"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Lewis_frustrated.png"]
+        }
+    },
+    
+    {
+        "name": "Linus",
+        "data": {
+            "loves": ["Blueberry tart", "cactus fruit", "Coconut", "The Alleyway Buffet"],
+            "likes": ["Daffodil", "Dandelion", "Ginger", "Hazelnut"],
+            "dislikes": ["Treasure Chest"],
+            "hates": ["Bug Steak", "Carp"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\linus.png"]
+        }
+    },
+    
+    {
+        "name": "Marnie",
+        "data": {
+            "loves": ["Diamond", "Farmers Lunch", "Pink Cake", "Pumpkin Pie"],
+            "likes": ["Quartz", "Stardew Valley Almanac"],
+            "dislikes": ["Salmonberry", "Seaweed", "wild horseradish"],
+            "hates": ["Clay", "Holly"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\marnie.png"]
+        }
+    },
+    
+    {
+        "name": "Maru",
+        "data": {
+            "loves": ["Battery Pack", "Cheese Cauliflower", "Strawberry"],
+            "likes": ["Gold Bar", "Iridium Bar", "Quartz"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-05-02 144247.png"]
+        }
+    },
+    
+    {
+        "name": "Pam",
+        "data": {
+            "loves": ["Beer", "Mead", "Parsnip Soup"],
+            "likes": ["Daffodil"],
+            "dislikes": ["Quartz", "Wild Horseradish"],
+            "hates": ["Holly", "Octopus", "Squid"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\pam.png"]
+        }
+    },
+    
+    
+     {
+        "name": "Pierre",
+        "data": {
+            "loves": ["Fried Calamari", "Price Catalogue"],
+            "likes": ["Daffodil", "Dandelion"],
+            "dislikes": ["Leek", "Magma Cup", "Salmonberry", "Purple Mushroom" ],
+            "hates": ["Corn", "Garlic", "Parsnip Soup", "Tortilla"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\pierre.png"]
+        }
+    },
+    
+    {
+        "name": "Penny",
+        "data": {
+            "loves": ["Melon", "Poppy", "Roots Platter"],
+            "likes": ["Daffodil", "Leek", "Milk"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Penny_1.png"]
+        }
+    },
+    
+    {
+        "name": "Robin",
+        "data": {
+            "loves": ["Goat Cheese", "Peach", "Spaghetti", "Woody's Secret"],
+            "likes": ["Hardwood", "Quartz", "Woodcutter's Weekly"],
+            "dislikes": ["Wild Horseradish"],
+            "hates": ["Holly"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\robin.png"]
+        }
+    },
+    
+    {
+        "name": "Sam",
+        "data": {
+            "loves": ["Cactus Fruit", "Maple Bar", "Pizza"],
+            "likes": ["Joja Cola", "Orange", "Bread"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\Downloads\\Sam_1.png"]
+        }
+    },
+    {
+        "name": "Sebastian",
+        "data": {
+            "loves": ["Frozen Tear", "Obsidian", "Sashimi"],
+            "likes": ["Quartz", "Void Egg", "Coffee"],
+            "dislikes": ["Holly", "Quartz", "Fruit"],
+            "hates": ["Salmonberry", "Holly", "Clay"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-05-02 144606.png"]
+        }
+    },
+    
+    {
+        "name": "Shane",
+        "data": {
+            "loves": ["Beer", "Hot Pepper", "Pepper Poppers", "Pizza"],
+            "likes": ["Eggs", "Fruit"],
+            "dislikes": ["Chanterelle", "Common Mushroom", "Daffodil", "Dandelion", "Ginger", "Hazelnut"],
+            "hates": ["Pickles", "Quartz"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-05-02 145950.png"]
+        }
+    }, 
+    
+     {
+        "name": "Vincent",
+        "data": {
+            "loves": ["Cranberry Candy", "Ginger Ale", "Grape", "Pink Cake", "Snail"],
+            "likes": ["Coconut", "Daffodil", "Frog Egg"],
+            "dislikes": ["Dandelion", "Hazelnut", "Holly", "Leek"],
+            "hates": ["Clay", "Piña Colada", "Triple Shot Espresso", "Wild Horseradish"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\vincent.png"]
+        }
+    },
+    {
+        "name": "Wizard",
+        "data": {
+            "loves": ["Book of Mysteries", "Purple Mushroom", "Solar Essence", "Super Cucumber", "Void Essence"],
+            "likes": ["Quartz"],
+            "dislikes": ["Dandelion", "Ginger", "Hazelnut", "Slime"],
+            "hates": ["All Universal Hates"],
+            "image": ["C:\\Users\\jeann\\OneDrive\\Pictures\\Screenshots\\wizard.png"]
+        }
+    }
+    
+       
+]
+    
+    
+            
